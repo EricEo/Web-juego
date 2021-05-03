@@ -15,7 +15,7 @@
 ![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/Principalantes.PNG)
 ### Despues ###
 En el caso de la página principal que es la primera que modifique lo primero que hice fue primero de todo cambiar los colores, la imagen del background, hicimos el logo etc.
-tambien puse la imagen del background en movimiento, hicimos las descripciones del juego y de quienes somos y recolectamos imagenes del juego para crear la galeria 
+tambien puse la imagen del background en movimiento, hicimos las descripciones del juego y de quienes somos y recolectamos imagenes del juego para crear la galeria por ultimo puse en el footer tanto los terminos y condiciones como los github de todos los integrantes del equipo
 
 ![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/principaldespues.PNG)
 ### Log in / Sing up ###
