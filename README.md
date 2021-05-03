@@ -8,6 +8,8 @@
 * [Log in / Sing up](https://codepen.io/ianpirro/pen/DzKIJ)
 * [Contacto comunidad](https://codepen.io/mel/pen/kHCvr)
 * [Coming soon](https://codepen.io/AllThingsSmitty/pen/JJavZN)
+### Inicio ###
+![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/inicio.PNG)
 ### Principal ###
 ### Antes ###
 ![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/Principalantes.PNG)
