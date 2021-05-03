@@ -22,7 +22,7 @@ tambien puse la imagen del background en movimiento, hicimos las descripciones d
 ### Antes ###
 ![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/loginantes.PNG)
 ### Despues ###
-En el caso del log in y sing up lo que hicimos fue modificar el backcground y los colores para darle un toque personalizado, tambien añadimos el logo pequeño al lado del nombre y el encabezado para poder acceder a las otras paginas dede esta misma.
+En el caso de todos los apartados que vienen a continuacion lo que hicimos fue modificar el backcground y los colores para darle un toque personalizado, tambien añadir el logo y el encabezado para poder acceder a las otras paginas dede esta misma tambien emos añadido algun que otro detalle mas pero nos hemos centrado sobre todo en el tema del diseño.
 
 ![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/logindespues.PNG)
 ### Error 404 ###
