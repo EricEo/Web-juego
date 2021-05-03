@@ -7,6 +7,7 @@
 * [Error 404](https://codepen.io/rafaelavlucas/pen/NWWQNjZ)
 * [Log in / Sing up](https://codepen.io/ianpirro/pen/DzKIJ)
 * [Contacto comunidad](https://codepen.io/mel/pen/kHCvr)
+* [Coming soon](https://codepen.io/AllThingsSmitty/pen/JJavZN)
 ### Principal ###
 ### Antes ###
 ![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/Principalantes.PNG)
@@ -25,6 +26,11 @@ tambien puse la imagen del background en movimiento
 ### Despues ###
 ![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/error404despues.PNG)
 ### Contacto comunidad ###
+### Antes ###
+![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/comunidadantes.PNG)
+### Despues ###
+![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/comunidaddespues.PNG)
+### Coming soon ###
 ### Antes ###
 ![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/comunidadantes.PNG)
 ### Despues ###
