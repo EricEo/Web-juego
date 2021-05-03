@@ -14,10 +14,12 @@
 En el caso de la página principal que es la primera que modifique lo primero que hice fue primero de todo cambiar los colores, la imagen del background, hicimos el logo etc.
 tambien puse la imagen del background en movimiento 
 ![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/principaldespues.PNG)
+### Principal ###
 ### Antes ###
 ![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/loginantes.PNG)
 ### Despues ###
 ![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/logindespues.PNG)
+### Principal ###
 ### Antes ###
 ![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/error404antes.PNG)
 ### Despues ###
