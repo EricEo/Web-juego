@@ -26,6 +26,6 @@ tambien puse la imagen del background en movimiento
 ![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/error404despues.PNG)
 ### Contacto comunidad ###
 ### Antes ###
-![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/error404antes.PNG)
+![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/comunidadantes.PNG)
 ### Despues ###
-![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/error404despues.PNG)
+![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/comunidaddespues.PNG)
