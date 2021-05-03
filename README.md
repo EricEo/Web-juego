@@ -19,7 +19,7 @@ tambien puse la imagen del background en movimiento
 ![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/loginantes.PNG)
 ### Despues ###
 ![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/logindespues.PNG)
-### Principal ###
+### Error 404 ###
 ### Antes ###
 ![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/error404antes.PNG)
 ### Despues ###
