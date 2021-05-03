@@ -32,6 +32,6 @@ tambien puse la imagen del background en movimiento
 ![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/comunidaddespues.PNG)
 ### Coming soon ###
 ### Antes ###
-![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/comunidadantes.PNG)
+![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/comingsoonantes.PNG)
 ### Despues ###
-![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/comunidaddespues.PNG)
+![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/comingsoondespues.PNG)
