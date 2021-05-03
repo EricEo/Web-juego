@@ -40,3 +40,4 @@ En el caso del log in y sing up lo que hicimos fue modificar el backcground y lo
 ![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/comingsoonantes.PNG)
 ### Despues ###
 ![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/comingsoondespues.PNG)
+(En todas las plantillas lo que hemos hecho antes de modificar nada es leer el codigo para entenderlo y luego ya empezar a modificarlo.)
