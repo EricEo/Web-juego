@@ -6,6 +6,7 @@
 * [Pagina principal](https://www.mediafire.com/file/3e911dkk7jn1adl/P%E1gina_web_AlexCG_Design.zip/file)
 * [Error 404](https://codepen.io/rafaelavlucas/pen/NWWQNjZ)
 * [Log in / Sing up](https://codepen.io/ianpirro/pen/DzKIJ)
+* [Contacto comunidad](https://codepen.io/mel/pen/kHCvr)
 ### Principal ###
 ### Antes ###
 ![Captura](https://github.com/EricEo/Web-juego/blob/main/im%C3%A1genes/Principalantes.PNG)
